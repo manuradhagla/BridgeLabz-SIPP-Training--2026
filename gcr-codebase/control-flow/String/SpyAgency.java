@@ -5,7 +5,6 @@ public class SpyAgency{
         String message = sc.nextLine();
         checkPalindrome(message);
         countVowelsAndConsonants(message);
-        countConsonants(message);
     }
 
     public static void checkPalindrome(String message){
