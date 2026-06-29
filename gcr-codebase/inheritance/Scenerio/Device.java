@@ -25,3 +25,4 @@ class Thermostat extends Device {
         t.displayStatus();
     }
 }
+968
